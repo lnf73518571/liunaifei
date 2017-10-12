@@ -1,6 +1,7 @@
 package qst.com.bean;
 
 public class CardBean {
+	//123456656
 	private Integer id;
 	private String cardnum;
 	public Integer getId() {
