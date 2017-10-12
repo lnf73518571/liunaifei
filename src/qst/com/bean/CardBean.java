@@ -16,5 +16,5 @@ public class CardBean {
 	public void setCardnum(String cardnum) {
 		this.cardnum = cardnum;
 	}
-	
+	//hahahahahhahahah哈哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈哈哈啊哈哈哈哈哈哈哈啊哈哈哈哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈哈哈哈和哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
 }
