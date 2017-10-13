@@ -21,6 +21,7 @@ public class CardBean {
 	private String passWord;
 	private String email;
 	private String phoneNum;
+	private String contactPerson;
 
 	public String getUserName() {
 		return userName;
@@ -37,5 +38,9 @@ public class CardBean {
 	public String getPhoneNum() {
 		return phoneNum;
 	}
+
+    public String getContactPerson() {
+        return contactPerson;
+    }
 }
 
