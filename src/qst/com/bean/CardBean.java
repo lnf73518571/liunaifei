@@ -17,4 +17,25 @@ public class CardBean {
 		this.cardnum = cardnum;
 	}
 	//hahahahahhahahah哈哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈哈哈啊哈哈哈哈哈哈哈啊哈哈哈哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈哈哈哈和哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+	private String userName;
+	private String passWord;
+	private String email;
+	private String phoneNum;
+
+	public String getUserName() {
+		return userName;
+	}
+
+	public String getPassWord() {
+		return passWord;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public String getPhoneNum() {
+		return phoneNum;
+	}
 }
+
